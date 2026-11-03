@@ -19,7 +19,7 @@
 		"@epicenter/ui": "workspace:*",
 		"@tailwindcss/vite": "catalog:",
 		"arktype": "catalog:",
-		"astro": "6.4.6",
+		"astro": "7.3.3",
 		"posthog-js": "^1.386.6",
 		"svelte": "catalog:",
 		"tailwindcss": "catalog:"
